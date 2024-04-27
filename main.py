@@ -10,6 +10,5 @@ def main():
         elif args[0] == 'db_get':
             print(db.db_get(args[1]))
 
-
 if __name__ == '__main__': 
     main()
