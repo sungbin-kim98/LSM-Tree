@@ -20,3 +20,9 @@
 `db_set` performance: 0.00031685829162597656
 
 `db_get` performance: 0.00000905990600585938
+
+## 163-168 Implement compaction
+
+`db_set` performance: 0.00043201446533203125
+
+`db_get` performance: 0.00001025199890136719
